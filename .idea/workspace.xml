@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pilates.html" beforeDir="false" afterPath="$PROJECT_DIR$/pilates.html" afterDir="false" />
-    </list>
+    <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -354,16 +351,15 @@
       <workItem from="1551358649494" duration="498000" />
       <workItem from="1551364025876" duration="3734000" />
       <workItem from="1551368654595" duration="611000" />
-      <workItem from="1551369856047" duration="4292000" />
+      <workItem from="1551369856047" duration="4881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148220000" />
+    <option name="totallyTimeSpent" value="148809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.102212854" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
