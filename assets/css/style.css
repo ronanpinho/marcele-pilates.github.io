@@ -14111,3 +14111,7 @@ table caption {
 .slicknav_nav .active, .slicknav_nav a:focus, .slicknav_nav a:hover {
     color: #ed9d04;
 }
+
+#planos {
+    background: #dbdbdb!important;
+}
