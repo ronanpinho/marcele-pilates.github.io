@@ -14115,3 +14115,21 @@ table caption {
 #planos {
     background: #dbdbdb!important;
 }
+.other-page #beneficios {
+    position: relative;
+}
+
+.other-page #hero-area .contents {
+    padding: 0;
+}
+
+.other-page #hero-area video {
+    width: 100%;
+}
+.other-page #hero-area {
+    height: auto!important;
+}
+
+.other-page #header-wrap {
+    height: auto!important;
+}
