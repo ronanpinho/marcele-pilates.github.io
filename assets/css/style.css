@@ -14133,3 +14133,14 @@ table caption {
 .other-page #header-wrap {
     height: auto!important;
 }
+@media (max-width: 767px) {
+    #contato {
+        padding-top: 15%;
+    }
+
+    #whatsapp-home, #whatsapp-vida-melhor {
+        display: table;
+        margin: 0 auto;
+    }
+
+}
